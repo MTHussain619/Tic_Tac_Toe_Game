@@ -1,2 +1,2 @@
-# Task_3-Prodigy_Tic_Tac_Toe_Game
+# Tic_Tac_Toe_Game
 I developed this Tic Tac Toe Game using HTML,CSS and JavaScript.
